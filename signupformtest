@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>My Site</title>
+    <title>Sign Up Form</title>
   </head>
   <body>
     <h2> Sign Up Form </h2>
@@ -20,7 +20,7 @@
       }
      ?>
 
-     <form action="site.php" method="post"><br>
+     <form action="" method="post"><br>
        First Name:<input type="text" name="firstName" required><br>
        Last Name: <input type="text" name= "lastName"><br>
        E-mail: <input type="email" name = "email" required><br>
